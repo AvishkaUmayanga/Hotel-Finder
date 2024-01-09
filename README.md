@@ -1,1 +1,1 @@
-Demo - https://hfinder-app.netlify.app
+https://hfinder-app.netlify.app
